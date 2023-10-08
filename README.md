@@ -1,5 +1,5 @@
 # 4Bit-Signed-ALU-Design-ModelSim
-NMOS Arithmetic Unit for Multisim
+NMOS Arithmetic Unit for NI-Multisim
 
 This project showcases the design and implementation of an NMOS-based 4-bit Arithmetic Unit capable of performing four essential operations: addition, subtraction, multiplication, and division. The entire system is simulated using NI Multisim software.
 
