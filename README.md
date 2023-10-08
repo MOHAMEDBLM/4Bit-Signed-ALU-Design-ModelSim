@@ -3,7 +3,7 @@ NMOS Arithmetic Unit for Multisim
 
 This project showcases the design and implementation of an NMOS-based 4-bit Arithmetic Unit capable of performing four essential operations: addition, subtraction, multiplication, and division. The entire system is simulated using NI Multisim software.
 
-Key Features:
+==> Key Features:
 
 Versatile Functionality: Our NMOS Arithmetic Unit is designed to handle 4-bit arithmetic operations, making it a valuable tool for various digital computing tasks.
 
@@ -11,11 +11,11 @@ Operation Control: The core of this unit is a decoder that efficiently controls 
 
 4-Bit Results: The project includes an integrated 7-segment display that conveniently displays the 4-bit results of the operations, making it easy to verify the outcomes.
 
-Why NMOS?
+==> Why NMOS?
 
 NMOS technology offers advantages in terms of power efficiency and ease of integration, making it a suitable choice for this project. The design leverages NMOS components to optimize both functionality and power consumption.
 
-Getting Started:
+==> Getting Started:
 
 To use and test the NMOS 4-bit Arithmetic Unit, simply load the provided Multisim project file and follow the included documentation. You can then input your 4-bit operands and observe the 4-bit results on the 7-segment display.
 
